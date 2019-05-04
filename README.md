@@ -235,7 +235,7 @@ Foi definido uma regra fixa com o deffacts, com a finalidade de testar e obter o
 ##### *Figura 9. Definição da regra deffacts.*
 
 <p align="justify">
-A figura 10, mostra os resultados do conceito do cliente, baseado na regra deffacts da figura 10. Definindo como o cliente não é inadimplente e a sua compra é alta, ele tem uma pontuação de 8.74.
+A figura 10, mostra os resultados do conceito do cliente, baseado na regra deffacts da figura 10. Definindo como o cliente não é inadimplente e a sua compra é alta, ele tem uma pontuação de 8.75.
 </p>
 
 #### ![Figura_10](https://github.com/charlespereirahd/trabalhoiafuzzy/blob/master/img/plotagem_resultado.JPG "resultado")
