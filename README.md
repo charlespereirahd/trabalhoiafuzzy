@@ -83,7 +83,7 @@ Para cada variável linguística foi definido um template, que mostraremos a seg
 Na figura 2 temos a demonstração gráfica dos possíveis valores numéricos para a variável linguística inadimplência, de acordo com os parâmetros definidos no seu respectivo template.
 </p>
 
-#### ![Figura_1](https://github.com/charlespereirahd/trabalhoiafuzzyclips/blob/master/img/inadip.JPG "deftemplate inadimplencia")
+#### ![Figura_1](https://github.com/charlespereirahd/trabalhoiafuzzy/blob/master/img/inadip.JPG "deftemplate inadimplencia")
 ###### *Figura 2. Demonstração gráfica para os possíveis valores numéricos da inadimplência.*
 
 <p align="justify">
@@ -109,7 +109,7 @@ Na figura 3 temos o template compra, onde teremos duas funções pré-definidas 
 Na figura 4 temos a demonstração gráfico dos possíveis valores numéricos para a variável linguística compra:
 </p>
 
-#### ![Figura_4](https://github.com/charlespereirahd/trabalhoiafuzzyclips/blob/master/img/qtde.JPG "deftemplate compra")
+#### ![Figura_4](https://github.com/charlespereirahd/trabalhoiafuzzy/blob/master/img/qtde.JPG "deftemplate compra")
 ###### *Figura 4. Demonstração gráfica para os possíveis valores numéricos da compra.*
 
 <p align="justify">
@@ -135,7 +135,7 @@ Na figura 5 temos o template conceito, onde teremos duas funções pré-definida
 Na figura 6 temos a demonstração gráfica dos possíveis valores numéricos para a variável linguística conceito:
 </p>
 
-#### ![Figura_6](https://github.com/charlespereirahd/trabalhoiafuzzyclips/blob/master/img/conceito.JPG "deftemplate conceito")
+#### ![Figura_6](https://github.com/charlespereirahd/trabalhoiafuzzy/blob/master/img/conceito.JPG "deftemplate conceito")
 ###### *Figura 6. Demonstração gráfica para os possíveis valores numéricos do conceito.*
 
 <p align="justify">
@@ -238,7 +238,7 @@ Foi definido uma regra fixa com o deffacts, com a finalidade de testar e obter o
 A figura 10, mostra os resultados do conceito do cliente, baseado na regra deffacts da figura 10. Definindo como o cliente não é inadimplente e a sua compra é alta, ele tem uma pontuação de 8.74.
 </p>
 
-#### ![Figura_10](https://github.com/charlespereirahd/trabalhoiafuzzyclips/blob/master/img/plotagem_resultado.JPG "resultado")
+#### ![Figura_10](https://github.com/charlespereirahd/trabalhoiafuzzy/blob/master/img/plotagem_resultado.JPG "resultado")
 ###### *Figura 10. Resultado do Conceito do Cliente*
 
 #### 3. Conclusão
